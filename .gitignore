@@ -35,6 +35,7 @@ apps/web/dist/
 .playwright-mcp/
 .orig
 .worktrees/
+.codegraph
 worktrees/
 .agents/worktrees/
 .typert-*/
